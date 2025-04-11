@@ -1,0 +1,35 @@
+h2{
+    background-color:rgb(1, 66, 1);color:bisque;
+}
+.manstay{
+    background-color: chocolate;
+}
+#daisy{
+    background-color: blanchedalmond;
+}
+h1{
+    text-align:center;
+}
+.head:hover{
+    color:skyblue
+}
+.head{
+    color:red;
+    transition: color 1s;
+    transition-duration: inherit;
+    font-family:fantasy;
+    font-size:40px;
+}
+.main{
+    text-align: center;
+}
+
+body {
+    background-color:black;
+}
+p{
+    color:white;
+}
+td{
+    color:white;
+}
